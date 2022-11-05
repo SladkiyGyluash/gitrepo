@@ -1,2 +1,2 @@
-print('HELLO GIT')
-print('HELLO PYCHARM')
+print('heaven')
+print('hell')
