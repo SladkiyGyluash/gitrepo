@@ -1,2 +1,2 @@
-print('heaven')
-print('hell')
+print('HELL')
+print('HEAVEN')
