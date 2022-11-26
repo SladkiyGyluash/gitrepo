@@ -4,5 +4,6 @@ def main():
     print('3 print')
     print('4 print')
     print('5 print')
+    print('6')
 if __name__ == '__main__':
     main()
