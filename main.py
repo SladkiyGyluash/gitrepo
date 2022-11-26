@@ -1,5 +1,5 @@
 def main():
-    print('1 print')
+    print('first print')
     print('2 print')
     print('3 print')
     print('4 print')
